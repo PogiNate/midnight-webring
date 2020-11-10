@@ -1,0 +1,12 @@
+{
+  "identifier" : "6856CEFD-49DE-4CB5-AAEC-18E0160FA666",
+  "ignoredFilePatterns" : [
+    ".codekit3",
+    "index.css",
+    ".nova\/"
+  ],
+  "remotePath" : "\/homepage",
+  "remoteURL" : "http:\/\/webring.natedickson.com",
+  "server" : "1&1",
+  "usesPublishing" : false
+}
