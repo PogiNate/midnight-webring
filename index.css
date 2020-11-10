@@ -1,7 +1,7 @@
 body{
   font-family: fantasy;
 }
-
+/* TODO: Add some fonts. */
 header{
   font-family: cursive; 
   width: 90%;
@@ -22,4 +22,8 @@ header{
   text-align: center;
   margin-left: auto;
   margin-right:auto;
+}
+
+#links{
+  /* I need a list style. */
 }
