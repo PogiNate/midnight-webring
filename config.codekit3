@@ -70,8 +70,8 @@
 	"creationDate": 626659449.76973403,
 	"displayValue": "WebRing",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_orange",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "brackets_magenta",
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

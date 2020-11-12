@@ -4,7 +4,8 @@
     "*.codekit3",
     "index.css",
     ".nova\/",
-    "config.codekit3"
+    "config.codekit3",
+    ".editorconfig"
   ],
   "remotePath" : "\/homepage",
   "remoteURL" : "http:\/\/webring.natedickson.com",
