@@ -1,49 +1,49 @@
-body{
+body {
   font-family: fantasy;
 }
 /* TODO: Add some fonts. */
-header> h1{
-  font-family: 'Josefin Sans', sans-serif; 
+header > h1 {
+  font-family: "Josefin Sans", sans-serif;
   width: 90%;
   border: 1px solid;
   border-color: #ababab;
   padding-left: 10px;
   border-radius: 5pt;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
   padding-top: 15px;
   padding-bottom: 15px;
   width: 500px;
   text-align: center;
 }
 
-.intro{
-  font-family: 'Lato', sans-serif;
+.intro {
+  font-family: "Lato", sans-serif;
 }
 
-.row{
-  display:flex;
+.row {
+  display: flex;
 }
 
-.column{
-  flex:50%;
+.column {
+  flex: 50%;
 }
 
-.column > h2, #webring{
-  font-family: 'Raleway', sans-serif;
+.column > h2,
+#webring {
+  font-family: "Raleway", sans-serif;
 }
 
-
-#webring{
+#webring {
   border: 1px blue solid;
   border-radius: 5px;
   min-width: 200px;
-  max-width:300px;
+  max-width: 300px;
   text-align: center;
   margin-left: auto;
-  margin-right:auto;
+  margin-right: auto;
 }
 
-#links{
+#links {
   /* I need a list style. */
 }
